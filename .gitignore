@@ -4,25 +4,17 @@ venv/
 env/
 ENV/
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# OS files
+# OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
-# Temporary Excel files
-~$*.xlsx
+# Temporary files
+~.xlsx
 *.tmp
